@@ -4,6 +4,6 @@ Realizzazione di un database per la gestione di un negozio online di smartphone 
 
 Docente del corso: Mauro Conti
 
-Daniele Dal Maso
+- Daniele Dal Maso
 
-Marco Naccari
+- Marco Naccari
